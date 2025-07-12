@@ -1,2 +1,2 @@
-# whispers
-Demo simulating routing-based steganography in MoE models
+# Whispers
+Veeerrryyyy early-stage demo simulating routing-based steganography in MoE models
